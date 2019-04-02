@@ -1,4 +1,4 @@
-# Are You Hungry Yet?
+# Are You Hungry Yet? - https://ruthenewman.github.io/AreYouHungryYet/
 
 Day 1 of challenge to build 30 vanilla JS projects over 30 days (displaying sliding images of different kinds of food)
 
