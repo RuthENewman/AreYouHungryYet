@@ -1,0 +1,19 @@
+body, html {
+  background-color: #ffd3b6;
+}
+
+#slide-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 500px;
+  border-radius: 4px;
+}
+
+.main-header {
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font-family: 'Arial', sans-serif;
+  color: #6f0000;
+}
