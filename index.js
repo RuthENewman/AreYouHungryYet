@@ -1,6 +1,6 @@
 let i = 0;
 const images = [];
-const time = 3000;
+const time = 4000;
 
 images[0] = 'image1.jpg';
 images[1] = 'image2.jpg';
